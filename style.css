@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+/*.card-container{
+ width:100%;
+    background-color: rgb(247, 245, 245);
+}
+.col-section{
+    padding:20px;
+}*/
+/*.row {
+    display: flex;
+}
+.col-1{
+    width:20%;
+}
+.col-2{
+    width:40%;
+}
+.col-3{
+    width:40%;
+}*/
+
+.card-content{
+    
+    border:2px solid rgb(219, 216, 216);
+}
+.col-2  {
+    padding-left: 40px;
+}
+.card1{
+    padding-left: 30px;
+}
+.btn{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.btn1{
+    border:2px solid black;
+    text-decoration: none;
+    border-radius: 6px;
+    color:black;
+    padding: 10px;
+}
+.btn2{
+    border:2px solid black;
+    text-decoration: none;
+    border-radius: 6px;
+    color:black;
+    background-color: rgb(238, 93, 190);
+    padding: 10px;
+    
+}
+.para{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+
+/*rate-value*/
+.rate-value{
+    border:2px solid rgb(207, 202, 202);
+    padding: 10px;
+}
+
+
+
+.reviews{
+    display:flex;
+    padding-bottom: 20px;
+    
+}
+.rat{
+    padding-left: 30px;
+}
+.re1{
+    font-size: 16px;
+    background-color: rgb(3, 59, 3);
+    color:white;
+    border:2px solid rgb(3, 68, 3);
+    border-radius: 35px;
+    
+    
+}
+.rate-value button{
+    color: rgb(5, 75, 5);
+    border-radius: 40px;
+    padding: 5px;
+}
+/*select-size*/
+
+.select-size{
+    border:2px solid rgb(194, 190, 190);
+    padding:10px;
+}
+.btn-3 button{
+    border: 2px solid gray;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 5px;
+}
+/*product details*/
+
+.product{
+    border:2px solid rgb(167, 162, 162);
+    padding: 10px;
+}
+.details{
+    color: rgb(99, 82, 82);
+}
+/*sold by*/
+.report{
+    display: flex;
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+.report button{
+    color:rgb(233, 16, 150);
+    border:2px solid rgb(235, 17, 162);
+
+}
+.counts{
+    display: flex;
+    padding-left: 60px;
+}
+.sold-by{
+    border:2px solid rgb(190, 187, 187);
+    padding: 10px;
+}
+.p2{
+    padding-right: 40px;
+
+}
+.p2 i{
+    font-size: 30px;
+    background-color: rgb(217, 223, 223);
+    border-radius: 40px;
+    padding-right: 20px;
+    
+}
+.count1,.count2,.count3{
+    padding-left: 20px;
+}
+.counts p{
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
